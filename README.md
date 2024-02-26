@@ -1,3 +1,7 @@
+
+
+<div align="center">
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8704F7&center=true&random=false&width=435&lines=I'm+AleDev" alt="Typing SVG" /></a>
 ###
 
@@ -8,8 +12,7 @@
 </div>
 
 ###
-
-<div align="center">
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
