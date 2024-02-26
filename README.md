@@ -3,7 +3,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8704F7&center=true&random=false&width=435&lines=I'm+AleDev" alt="Typing SVG" /></a>
-###
+
 
 <p>A self taught developer.</p>
 
@@ -11,7 +11,7 @@
   <img src="https://profile-counter.glitch.me/YoSupItsAle/count.svg?"  />
 </div>
 
-###
+
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
   <img width="12" />
